@@ -5,3 +5,4 @@
 
 [principais atividades](https://raw.githubusercontent.com/vinicinho30/api/main/principais-atividades.json)
 
+[razões Globais](https://raw.githubusercontent.com/vinicinho30/api/main/razoes-globais.json)
